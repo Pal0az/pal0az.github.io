@@ -1,3 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
 title: Paola's Portfolio
 description: Data analysis, backend development, and scientific exploration.
+sass:
+  style: compressed
